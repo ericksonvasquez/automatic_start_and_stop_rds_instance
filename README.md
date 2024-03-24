@@ -6,8 +6,8 @@ Start or stop a database instance depending on whether the instance is stopped o
 
 ## StopDB.js
 
-Stop DB Only
+Stop DB
 
 ## StartDB.js
 
-Start DB Only
+Start DB
